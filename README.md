@@ -1,4 +1,4 @@
-Greetings. My name is Kestron, and I am a software developer behind a lot of different projects. [My website can be found here](https://kestron.software).
+Greetings. My name is Kestron, and I am a software developer behind a lot of different projects. [My website can be found here](https://kestron.com).
 
 Some of the most notable projects include the following
 - Stewbot is a Discord bot that runs a lot of moderation, as well as features designed to entertain.
